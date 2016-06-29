@@ -1,4 +1,4 @@
-package com.xutils3demo;
+﻿package com.xutils3demo;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -24,6 +24,7 @@ import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity {
     private static final String BASE_URL = "http://pic13.nipic.com/20110415/1369025_121513630398_2.jpg";
+
     //外部sdcard
     private static final String BASE_PATH = Environment.getExternalStorageDirectory().getPath() + File.separator;
     private Button buttonDownloadFile, bt_OpenPhoto;
