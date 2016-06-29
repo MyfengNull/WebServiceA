@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
         // TODO: 2016/6/29 打开相册  
         bt_OpenPhoto.setOnClickListener(new View.OnClickListener() {
             @Override
