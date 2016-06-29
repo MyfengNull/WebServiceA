@@ -1,4 +1,4 @@
-﻿package com.xutils3demo;
+package com.xutils3demo;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
