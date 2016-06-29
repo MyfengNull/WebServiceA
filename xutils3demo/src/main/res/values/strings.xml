@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xutils3Demo</string>
+    <string name="down">下载</string>
+    <string name="openPhoto">打开相册</string>
+</resources>
