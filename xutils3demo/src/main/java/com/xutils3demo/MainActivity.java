@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
     // TODO: 2016/6/29  判断文件是否存在
     public boolean fileIsExists() {
         try {
+
             File f = new File(BASE_PATH + "/DCIM/Camera" + "/mm.jpeg");
             if (!f.exists()) {
                 return false;
